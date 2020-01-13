@@ -1,12 +1,5 @@
-//
-//  main.swift
-//  adventofcode
-//
-//  Created by Todd Olsen on 1/6/20.
-//  Copyright © 2020 proxpero. All rights reserved.
-//
 
-import Foundation
+let p = Day02.Part1()
 
-print("Hello, World!")
-
+p.test()
+//print(p.result())
